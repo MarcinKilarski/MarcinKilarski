@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MarcinKilarski
+- 👀 I’m interested in WordPress, React, page speed optimisation, convertion rate optimisation
+- 🌱 I’m currently learning convertion rate optimisation
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/marcinkilarski/
